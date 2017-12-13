@@ -182,6 +182,11 @@
 			attributes = {
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Carson McDonald";
+				TargetAttributes = {
+					B62ADEEB16A8335400C4FEB4 = {
+						DevelopmentTeam = D4ZHXU74V3;
+					};
+				};
 			};
 			buildConfigurationList = B62ADEE616A8335400C4FEB4 /* Build configuration list for PBXProject "TestWebP" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -322,7 +327,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = D4ZHXU74V3;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../libwebp-build\"",
@@ -341,7 +346,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = D4ZHXU74V3;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../libwebp-build\"",
